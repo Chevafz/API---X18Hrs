@@ -1,0 +1,24 @@
+{
+  "title": "Mi biblioteca de APIs",
+  "subtitle": "Editor de documentacion",
+  "icon": "",
+  "theme": {
+    "bg": "#090d14",
+    "panel": "#111925",
+    "card": "#141e2a",
+    "text": "#e9eef8",
+    "muted": "#8c9ab1",
+    "button": "#1a2737",
+    "buttonText": "#dce7f5",
+    "accent": "#176da0",
+    "accentText": "#ffffff",
+    "border": "#253246",
+    "link": "#61c7f1",
+    "input": "#0b121c",
+    "danger": "#ff9a9a"
+  },
+  "categories": [
+    { "id": "f39a10c1", "path": "Fisicas/Gravedad", "blocks": [] },
+    { "id": "3e5f781a", "path": "Fisicas/Mecanicas/Salto", "blocks": [] }
+  ]
+}
